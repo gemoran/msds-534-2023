@@ -36,5 +36,5 @@ We recommend creating a virtual environment for your MSDS-534 coding projects.
 5. To exit your environment:
    ```conda deactivate```
 
-
+Here is a helpful [cheatsheet](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for `conda` environment commands.
 
