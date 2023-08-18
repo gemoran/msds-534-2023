@@ -14,9 +14,27 @@ To download packages, two popular package managers are `pip` and `conda`.  Both 
 
 ## Environments
 
+### About
+
 We recommend using virtual environments with Python. From [this blog](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/):
 
 > A Python virtual environment consists of two essential components: the Python interpreter that the virtual environment runs on and a folder containing third-party libraries installed in the virtual environment. These virtual environments are isolated from the other virtual environments, which means any changes on dependencies installed in a virtual environment don’t affect the dependencies of the other virtual environments or the system-wide libraries. Thus, we can create multiple virtual environments with different Python versions, plus different libraries or the same libraries in different versions.
 
-
 ![](https://www.dataquest.io/wp-content/uploads/2022/01/python-virtual-envs1.webp)
+
+### Creating an environment for MSDS-534
+
+We recommend creating a virtual environment for your MSDS-534 coding projects.
+
+1. Open Terminal
+2. Create an environment called `msds534` using `conda` with the command:
+   ```conda create --name msds534```
+3. To install packages in your environment, first activate your environment:
+   ```conda activate msds534```
+4. Then, install the following packages using the command:
+   ```conda install numpy pandas matplotlib seaborn scikit-learn```
+5. To exit your environment:
+   ```conda deactivate```
+
+
+
