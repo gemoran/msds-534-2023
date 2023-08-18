@@ -18,3 +18,10 @@ Personally, I (Gemma) prefer PyCharm as it is similar-ish to R Studio and has go
 ## Lecture Notebooks
 
 Here we will post Jupyter Notebooks from the lectures.
+
+
+
+
+## Other guides (under construction)
+
+- Using github
