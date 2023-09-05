@@ -15,6 +15,11 @@ Personally, I (Gemma) prefer PyCharm as it is similar-ish to R Studio and has go
 
 (Let us know if you have other favorite Python IDEs we should add here!)
 
+### Learning Python
+
+A good introduction to Python for data science is:
+- Section 2.3 (Lab: Introduction to Python), _Introduction to Statistical Learning_, James, G., Witten, D., Hastie, T., and Tibshirani, R.
+
 ## Lecture Notebooks
 
 Here we will post Jupyter Notebooks from the lectures.
