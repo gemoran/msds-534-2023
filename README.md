@@ -24,6 +24,7 @@ A good introduction to Python for data science is:
 
 Here we will post Jupyter Notebooks from the lectures.
 
+- [Lecture 1](lectures/lecture-1.ipynb)
 
 
 
