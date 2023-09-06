@@ -18,8 +18,8 @@ Personally, I (Gemma) prefer PyCharm as it is similar-ish to R Studio and has go
 ## Learning Python
 
 ### Introduction
-A good introduction to Python for data science is:
-- Section 2.3 (Lab: Introduction to Python), _Introduction to Statistical Learning_, James, G., Witten, D., Hastie, T., and Tibshirani, R.
+A good introduction to Python for data science is from _Introduction to Statistical Learning_, (James, G., Witten, D., Hastie, T., and Tibshirani, R.)
+- https://github.com/intro-stat-learning/ISLP_labs/blob/stable/Ch02-statlearn-lab.ipynb
 
 ### PyTorch
 This is a nice introduction to PyTorch -- it starts with a basic linear model and shows you how to code it up in PyTorch (saving the bells and whistles of neural networks for another time)
