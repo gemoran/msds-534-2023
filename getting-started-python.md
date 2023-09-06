@@ -33,7 +33,8 @@ We recommend creating a virtual environment for your MSDS-534 coding projects.
    ```conda activate msds534```
 4. Then, install the following packages using the command:
    ```conda install numpy pandas matplotlib seaborn scikit-learn```
-5. To exit your environment:
+5. Install PyTorch by running the appropriate command from [here](https://pytorch.org) (for macOS, the command is: `conda install pytorch::pytorch torchvision torchaudio -c pytorch`
+6. To exit your environment:
    ```conda deactivate```
 
 Here is a helpful [cheatsheet](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for `conda` environment commands.
