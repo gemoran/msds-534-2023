@@ -4,10 +4,10 @@ Welcome to MSDS-534! Here we will share computing resources for the class.
 
 ## Getting started with Python
 
-1. How to install Python and get started with environments [here](getting-started-python.md).
+1. Install Python and get started with environments [here](getting-started-python.md).
+2. Create a Jupyter Notebook [instructions here](getting-started-jupyter-notebooks.md)
 
-Common options for using Python include:
-- Jupyter Notebooks [instructions here](getting-started-jupyter-notebooks.md)
+### Other good Python IDEs (integrated development environments)
 - PyCharm (download [here](https://www.jetbrains.com/pycharm/download) -- scroll down for free Community Edition)
 - VSCode (download [here](https://code.visualstudio.com))
 
@@ -15,10 +15,15 @@ Personally, I (Gemma) prefer PyCharm as it is similar-ish to R Studio and has go
 
 (Let us know if you have other favorite Python IDEs we should add here!)
 
-### Learning Python
+## Learning Python
 
+### Introduction
 A good introduction to Python for data science is:
 - Section 2.3 (Lab: Introduction to Python), _Introduction to Statistical Learning_, James, G., Witten, D., Hastie, T., and Tibshirani, R.
+
+### PyTorch
+This is a nice introduction to PyTorch -- it starts with a basic linear model and shows you how to code it up in PyTorch (saving the bells and whistles of neural networks for another time)
+- https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
 
 ## Lecture Notebooks
 
