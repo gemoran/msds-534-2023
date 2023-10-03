@@ -1,0 +1,16 @@
+name: msds534
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - pip
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - pip:
+    - torchviz
