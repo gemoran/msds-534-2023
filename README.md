@@ -24,8 +24,9 @@ Here is a nice blogpost about learning Python as an R user:
 
 ### PyTorch
 This is a nice introduction to PyTorch -- it starts with a basic linear model and shows you how to code it up in PyTorch (saving the bells and whistles of neural networks for another time)
-- https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
+- https://huggingface.co/blog/dvgodoy/beginner-pytorch-tutorial
 
+  
 ## Lecture Notebooks
 
 Here we will post Jupyter Notebooks from the lectures.
